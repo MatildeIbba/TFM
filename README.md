@@ -1,6 +1,3 @@
-# TFM
-Bioinformatics analysis of antibiotic resistance in Cutibacterium acnes, including data processing, sequence analysis, and custom scripts.
-
 🧬 Antibiotic Resistance in Cutibacterium acnes
 
 This repository contains the scripts, workflows, and data analysis developed for my Master's Thesis (TFM), focused on studying antibiotic resistance in Cutibacterium acnes.
