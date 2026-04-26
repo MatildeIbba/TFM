@@ -7,12 +7,12 @@ This repository contains the scripts, workflows, and data analysis developed for
 The aim of this project is to investigate the genetic basis of antibiotic resistance in C. acnes through bioinformatics approaches. The repository includes data processing pipelines, sequence analysis, and custom scripts.
 
 ⚙️ Methods and Tools
- - Sequence data processing (FASTQ/FASTA handling)
- - Quality control and filtering
+ - Quality control and filtering (SeqKit, BUSCO)
  - Alignment and variant analysis
+ - Pangenome/resistome analysis
  - Data visualization
 
 Tools and languages used:
  - Python / R (depending on what uses)
  - Bash / Linux / MacOs Terminal
- - Bioinformatics tools (e.g., FastQC, BWA, SAMtools, etc.)
+ - Bioinformatics tools (e.g., Prokka, ResFinder, BLAST, etc.)
