@@ -1,6 +1,6 @@
 # Valencia, 19-04-2025
 # This script was written by Matilde Ibba
-# This script can be used to study the pangenome 
+# This script can be used to study the pangenome obtained from Panaroo
 
 import os
 import sys
